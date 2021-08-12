@@ -1,0 +1,33 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 19px;
+}
+canvas {
+    border-style: solid;
+    margin-top: 50px;
+    
+}
+
+#button_Start {
+    font-size: 18px;
+}
+
+.copy_right_footer {
+    color: cyan;
+    line-height: 3;
+    text-align: center;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
